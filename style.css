@@ -189,7 +189,6 @@ body {
   }
 
   to {
-
     opacity: 1;
     transform: translateY(0%);
   }
@@ -250,7 +249,6 @@ body {
   bottom: 0;
   left: 0;
   z-index: 0;
-  /* transition: all 0.8s ease-in-out; */
 }
 
 .fade-right {
@@ -426,16 +424,15 @@ section h1 {
 }
 
 .watch {
-  background-image: url(img/Watch\ Website\ Snapshot.png);
-
+  background-image: url(img/VR-Training-Platform.png);
 }
 
 .car {
-  background-image: url(img/Carvan\ Snapshot.png);
+  background-image: url(img/Traffic-Racer.jpg);
 }
 
 .law {
-  background-image: url(img/LawyerLink\ Snapshot.png);
+  background-image: url(img/PhysioLink.jpeg);
 }
 
 .project-details-toggler {
@@ -609,7 +606,6 @@ section h1 {
 
   .tabs::before {
     content: "\";
-
   }
 
   .tabs a {
